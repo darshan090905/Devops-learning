@@ -78,8 +78,8 @@ Faster, repeatable, and easier for team collaboration
 🚀 Getting Started
 1. Clone the Repository
 
-git clone https://github.com/
-darshan090905/vprofile-project.git
+git clone https://github.com/darshan090905/vprofile-project.git
+
 cd vprofile-project
 
 2. Start the Environment (Automatic Setup)
