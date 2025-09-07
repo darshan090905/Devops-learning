@@ -78,7 +78,7 @@ Faster, repeatable, and easier for team collaboration
 🚀 Getting Started
 1. Clone the Repository
 
-git clone https://github.com/darshan090905/Devops-learning/tree/master/vprofile-project
+git clone https://github.com/darshan090905/Devops-learning/tree/master/milestone-4-vprofile-project
 
 cd vprofile-project
 
