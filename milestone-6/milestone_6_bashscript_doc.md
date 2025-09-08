@@ -43,7 +43,7 @@ This milestone gave me the confidence to use scripting in **real-world DevOps pr
 
 ## 🔹 Documentation
 All bash scripts for this milestone are uploaded here:  
-👉 [Milestone 6 Scripts & Documentation](https://github.com/darshan090905/Devops-learning/tree/master/milestone-6)  
+👉 https://github.com/darshan090905/Devops-learning/tree/master/milestone-6-scritps_practice  
 
 ---
 
