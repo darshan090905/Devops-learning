@@ -94,5 +94,5 @@ Python is used for pipeline scripting, environment validation, and build process
 
 ## Documentation
 All detailed scripts and examples for this milestone are available in the GitHub repository:  
-https://github.com/darshan090905/Devops-learning/tree/master/milestone-8-python
+https://github.com/darshan090905/Devops-learning/tree/master/milestone-8/pythonPracticeScripts
 
